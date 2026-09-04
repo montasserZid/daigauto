@@ -1,0 +1,246 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - link "DAIG AUTO" [ref=e5] [cursor=pointer]:
+      - /url: "#home"
+      - generic [ref=e9]:
+        - generic [ref=e10]: DAIG
+        - generic [ref=e11]: AUTO
+    - navigation "Primary navigation" [ref=e12]:
+      - link "Accueil" [ref=e13] [cursor=pointer]:
+        - /url: "#home"
+      - link "Services" [ref=e14] [cursor=pointer]:
+        - /url: "#services"
+      - link "A propos" [ref=e15] [cursor=pointer]:
+        - /url: "#about"
+      - link "Zone de service" [ref=e16] [cursor=pointer]:
+        - /url: "#area"
+      - link "FAQ" [ref=e17] [cursor=pointer]:
+        - /url: "#faq"
+      - link "Contact" [ref=e18] [cursor=pointer]:
+        - /url: "#contact"
+    - generic [ref=e19]:
+      - generic "Language switcher" [ref=e20]:
+        - button "FR" [pressed] [ref=e21] [cursor=pointer]
+        - button "EN" [ref=e22] [cursor=pointer]
+      - link "Soumission gratuite" [ref=e23] [cursor=pointer]:
+        - /url: "#quote"
+  - main [ref=e24]:
+    - generic [ref=e28]:
+      - paragraph [ref=e29]: Mecanique mobile - Brossard / Rive-Sud
+      - generic [ref=e33]:
+        - generic [ref=e34]: DAIG
+        - generic [ref=e35]: AUTO
+      - heading "Mecanique mobile. Directement a vous." [level=1] [ref=e36]:
+        - text: Mecanique mobile.
+        - generic [ref=e37]: Directement a vous.
+      - paragraph [ref=e38]: Service mecanique professionnel a Brossard et sur la Rive-Sud de Montreal, concu pour simplifier l entretien de votre vehicule a l endroit ou il se trouve.
+      - generic [ref=e39]:
+        - link "Obtenir une soumission gratuite" [ref=e40] [cursor=pointer]:
+          - /url: "#quote"
+        - link "Nous appeler" [ref=e43] [cursor=pointer]:
+          - /url: "#contact"
+      - generic [ref=e46]: Base a Brossard - service mobile sur la Rive-Sud
+    - region "Value proposition" [ref=e50]:
+      - article [ref=e51]:
+        - heading "Service mobile" [level=2] [ref=e53]
+        - paragraph [ref=e54]: Le service se deplace vers votre vehicule lorsque possible.
+      - article [ref=e55]:
+        - heading "Pratique" [level=2] [ref=e57]
+        - paragraph [ref=e58]: Un processus simple pour demander une soumission ou un rendez-vous.
+      - article [ref=e59]:
+        - heading "Professionnel" [level=2] [ref=e61]
+        - paragraph [ref=e62]: Une presentation claire, une approche soignee et un travail structure.
+      - article [ref=e63]:
+        - heading "Transparent" [level=2] [ref=e65]
+        - paragraph [ref=e66]: Les besoins du vehicule sont expliques avant de confirmer les prochaines etapes.
+    - generic [ref=e67]:
+      - generic [ref=e68]:
+        - paragraph [ref=e69]: Services
+        - heading "Entretien et reparations courantes" [level=2] [ref=e70]
+        - generic [ref=e71]: Liste temporaire de services generiques. Elle sera ajustee avec les services reels de DAIG AUTO.
+      - generic [ref=e72]:
+        - article [ref=e73]:
+          - generic [ref=e76]:
+            - heading "Entretien general" [level=3] [ref=e77]
+            - paragraph [ref=e78]: Inspection, entretien courant et besoins mecaniques de base.
+        - article [ref=e79]:
+          - generic [ref=e85]:
+            - heading "Freins" [level=3] [ref=e86]
+            - paragraph [ref=e87]: Verification et services lies au systeme de freinage.
+        - article [ref=e88]:
+          - generic [ref=e92]:
+            - heading "Diagnostic" [level=3] [ref=e93]
+            - paragraph [ref=e94]: Evaluation initiale des symptomes et voyants lorsque possible.
+        - article [ref=e95]:
+          - generic [ref=e100]:
+            - heading "Batterie et demarrage" [level=3] [ref=e101]
+            - paragraph [ref=e102]: Problemes de batterie, demarrage et alimentation.
+        - article [ref=e103]:
+          - generic [ref=e107]:
+            - heading "Reparations mineures" [level=3] [ref=e108]
+            - paragraph [ref=e109]: Interventions mecaniques legeres pouvant etre faites sur place.
+        - article [ref=e110]:
+          - generic [ref=e114]:
+            - heading "Entretien saisonnier" [level=3] [ref=e115]
+            - paragraph [ref=e116]: Preparation et verification selon la saison.
+        - article [ref=e117]:
+          - generic [ref=e120]:
+            - heading "Autres services mecaniques" [level=3] [ref=e121]
+            - paragraph [ref=e122]: Demandez une soumission pour confirmer si le service est possible.
+    - generic [ref=e125]:
+      - generic [ref=e126]:
+        - paragraph [ref=e127]: Processus
+        - heading "Simple du premier message au service" [level=2] [ref=e128]
+      - generic [ref=e129]:
+        - article [ref=e130]:
+          - generic [ref=e131]: "1"
+          - generic [ref=e132]:
+            - heading "Expliquez-nous le probleme" [level=3] [ref=e133]
+            - paragraph [ref=e134]: Envoyez les details du vehicule et ce que vous observez.
+        - article [ref=e135]:
+          - generic [ref=e136]: "2"
+          - generic [ref=e137]:
+            - heading "Recevez votre soumission" [level=3] [ref=e138]
+            - paragraph [ref=e139]: DAIG AUTO confirme les prochaines etapes ou le rendez-vous.
+        - article [ref=e140]:
+          - generic [ref=e141]: "3"
+          - generic [ref=e142]:
+            - heading "Nous nous deplacons" [level=3] [ref=e143]
+            - paragraph [ref=e144]: Le service est effectue a l endroit convenu lorsque le travail peut etre fait sur place.
+    - generic [ref=e145]:
+      - generic [ref=e147]:
+        - paragraph [ref=e148]: Zone de service
+        - heading "Brossard et la Rive-Sud" [level=2] [ref=e149]
+        - generic [ref=e150]: DAIG AUTO est principalement base a Brossard et dessert generalement la Rive-Sud de Montreal. Les secteurs exacts seront confirmes selon la disponibilite et le type de service.
+      - generic [ref=e153]:
+        - strong [ref=e157]: Brossard
+        - generic [ref=e158]: Rive-Sud / South Shore
+    - generic [ref=e159]:
+      - generic [ref=e160]:
+        - paragraph [ref=e161]: Pourquoi DAIG AUTO
+        - heading "Une experience mobile plus directe" [level=2] [ref=e162]
+      - generic [ref=e163]:
+        - article [ref=e164]:
+          - generic [ref=e168]: Service mobile pratique
+        - article [ref=e169]:
+          - generic [ref=e173]: Communication simple et directe
+        - article [ref=e174]:
+          - generic [ref=e178]: Service ou se trouve le vehicule
+        - article [ref=e179]:
+          - generic [ref=e183]: Orientation locale Brossard / Rive-Sud
+        - article [ref=e184]:
+          - generic [ref=e188]: Experience concue pour telephone mobile
+    - generic [ref=e189]:
+      - generic [ref=e190]:
+        - paragraph [ref=e191]: Avis
+        - heading "Pret pour les futurs avis clients" [level=2] [ref=e192]
+      - generic [ref=e193]:
+        - heading "Avis clients a venir" [level=3] [ref=e196]
+        - paragraph [ref=e197]: Cette section est preparee pour afficher des avis reels ou une integration Google lorsque les informations seront disponibles.
+        - generic [ref=e198]: Contenu de demonstration - a remplacer par des avis verifies.
+    - generic [ref=e199]:
+      - generic [ref=e200]:
+        - paragraph [ref=e201]: FAQ
+        - heading "Questions frequentes" [level=2] [ref=e202]
+      - generic [ref=e203]:
+        - article [ref=e204]:
+          - button "Vous deplacez-vous a domicile?" [ref=e205] [cursor=pointer]
+          - paragraph [ref=e209]: Oui, le service mobile est concu pour se deplacer vers le vehicule lorsque le travail peut etre effectue sur place.
+        - article [ref=e210]:
+          - button "Quelles zones desservez-vous?" [ref=e211] [cursor=pointer]
+          - generic:
+            - paragraph: DAIG AUTO est principalement base a Brossard et dessert generalement la Rive-Sud. Les details seront confirmes selon la demande.
+        - article [ref=e214]:
+          - button "Puis-je demander une soumission avant de reserver?" [ref=e215] [cursor=pointer]
+          - generic:
+            - paragraph: Oui. Le formulaire permet de decrire le besoin afin de recevoir les prochaines etapes.
+        - article [ref=e218]:
+          - button "Quels travaux peuvent etre faits sur place?" [ref=e219] [cursor=pointer]
+          - generic:
+            - paragraph: Cela depend du vehicule, du probleme et des conditions sur place. Les services exacts seront confirmes avant le rendez-vous.
+        - article [ref=e222]:
+          - button "Dois-je preparer quelque chose?" [ref=e223] [cursor=pointer]
+          - generic:
+            - paragraph: Prevoyez un acces securitaire au vehicule et partagez les informations pertinentes avant le rendez-vous.
+    - generic [ref=e226]:
+      - generic [ref=e227]:
+        - generic [ref=e228]:
+          - paragraph [ref=e229]: Soumission
+          - heading "Demander une soumission gratuite" [level=2] [ref=e230]
+        - generic [ref=e231]:
+          - generic "DAIG AUTO" [ref=e232]
+          - paragraph [ref=e234]: Base a Brossard - service mobile sur la Rive-Sud
+      - generic [ref=e235]:
+        - paragraph [ref=e236]: Remplissez les informations principales. Les details pourront etre confirmes ensuite.
+        - generic [ref=e237]:
+          - generic [ref=e238]:
+            - text: Nom
+            - textbox "Nom" [ref=e239]
+          - generic [ref=e240]:
+            - text: Telephone
+            - textbox "Telephone" [ref=e241]
+          - generic [ref=e242]:
+            - text: Courriel
+            - textbox "Courriel" [ref=e243]
+          - generic [ref=e244]:
+            - text: Annee du vehicule
+            - textbox "Annee du vehicule" [ref=e245]
+          - generic [ref=e246]:
+            - text: Marque
+            - textbox "Marque" [ref=e247]
+          - generic [ref=e248]:
+            - text: Modele
+            - textbox "Modele" [ref=e249]
+          - generic [ref=e250]:
+            - text: Kilometrage approximatif
+            - textbox "Kilometrage approximatif" [ref=e251]
+          - generic [ref=e252]:
+            - text: Date preferee
+            - textbox "Date preferee" [ref=e253]
+        - generic [ref=e254]:
+          - text: Service souhaite ou description du probleme
+          - textbox "Service souhaite ou description du probleme" [ref=e255]
+        - group "Methode de contact preferee" [ref=e256]:
+          - generic [ref=e258]:
+            - generic [ref=e259]:
+              - radio "Telephone" [ref=e260]
+              - generic [ref=e261]: Telephone
+            - generic [ref=e262]:
+              - radio "Courriel" [ref=e263]
+              - generic [ref=e264]: Courriel
+            - generic [ref=e265]:
+              - radio "Texto" [ref=e266]
+              - generic [ref=e267]: Texto
+        - generic [ref=e268] [cursor=pointer]:
+          - generic [ref=e272]:
+            - strong [ref=e273]: Photo optionnelle
+            - text: Ajoutez une photo du probleme, du tableau de bord ou de la piece au besoin.
+          - button "Photo optionnelle Ajoutez une photo du probleme, du tableau de bord ou de la piece au besoin." [ref=e274]
+        - button "Envoyer la demande" [ref=e275] [cursor=pointer]
+        - generic [ref=e279]: Formulaire frontal seulement pour le moment. Integration courriel ou backend a ajouter.
+    - generic [ref=e281]:
+      - heading "Besoin d un mecanicien?" [level=2] [ref=e282]
+      - paragraph [ref=e283]: Nous nous deplacons jusqu a vous.
+      - link "Obtenir une soumission gratuite" [ref=e284] [cursor=pointer]:
+        - /url: "#quote"
+  - contentinfo [ref=e287]:
+    - generic [ref=e288]:
+      - generic [ref=e292]:
+        - generic [ref=e293]: DAIG
+        - generic [ref=e294]: AUTO
+      - paragraph [ref=e295]: Mecanique mobile
+      - text: Brossard / Rive-Sud de Montreal
+    - navigation "Footer navigation" [ref=e296]:
+      - link "Accueil" [ref=e297] [cursor=pointer]:
+        - /url: "#home"
+      - link "Services" [ref=e298] [cursor=pointer]:
+        - /url: "#services"
+      - link "Zone de service" [ref=e299] [cursor=pointer]:
+        - /url: "#area"
+      - link "FAQ" [ref=e300] [cursor=pointer]:
+        - /url: "#faq"
+    - generic [ref=e301]:
+      - strong [ref=e302]: Contact
+      - generic [ref=e303]: Coordonnees a ajouter
+      - link "Soumission gratuite" [ref=e304] [cursor=pointer]:
+        - /url: "#quote"

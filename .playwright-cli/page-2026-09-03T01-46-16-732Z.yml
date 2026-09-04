@@ -1,0 +1,262 @@
+- generic [ref=f2e3]:
+  - banner [ref=f2e4]:
+    - link "DAIG AUTO" [ref=f2e5] [cursor=pointer]:
+      - /url: "#home"
+      - img "DAIG AUTO" [ref=f2e7]
+    - button "Open menu" [active] [ref=f2e531] [cursor=pointer]
+  - main [ref=f2e11]:
+    - generic [ref=f2e15]:
+      - paragraph [ref=f2e16]: Mobile mechanic - Brossard / South Shore
+      - img "DAIG AUTO" [ref=f2e18]
+      - heading "Mobile mechanic. We come to you." [level=1] [ref=f2e356]:
+        - text: Mobile mechanic.
+        - generic [ref=f2e20]: We come to you.
+      - paragraph [ref=f2e21]: Professional mobile automotive service in Brossard and across the South Shore of Montreal, built to make vehicle maintenance easier where your vehicle is located.
+      - generic [ref=f2e22]:
+        - link "Get a free quote" [ref=f2e357] [cursor=pointer]:
+          - /url: "#quote"
+        - link "Call now" [ref=f2e358] [cursor=pointer]:
+          - /url: "#contact"
+      - generic [ref=f2e29]: Based in Brossard - mobile service across the South Shore
+    - region "Value proposition" [ref=f2e33]:
+      - article [ref=f2e359]:
+        - heading "Mobile service" [level=2] [ref=f2e361]
+        - paragraph [ref=f2e362]: Service comes to your vehicle whenever the work can be performed on site.
+      - article [ref=f2e363]:
+        - heading "Convenient" [level=2] [ref=f2e365]
+        - paragraph [ref=f2e366]: A simple process to request a quote or appointment.
+      - article [ref=f2e367]:
+        - heading "Professional" [level=2] [ref=f2e369]
+        - paragraph [ref=f2e370]: Clear presentation, careful work habits and a structured approach.
+      - article [ref=f2e46]:
+        - heading "Transparent" [level=2] [ref=f2e48]
+        - paragraph [ref=f2e49]: Vehicle needs are explained before confirming next steps.
+    - generic [ref=f2e50]:
+      - generic [ref=f2e51]:
+        - paragraph [ref=f2e52]: Services
+        - heading "Common maintenance and repairs" [level=2] [ref=f2e371]
+        - generic [ref=f2e54]: Temporary generic service list. It will be refined with DAIG AUTO’s real service offering.
+      - generic [ref=f2e55]:
+        - article [ref=f2e372]:
+          - generic [ref=f2e375]:
+            - heading "General maintenance" [level=3] [ref=f2e376]
+            - paragraph [ref=f2e377]: Inspection, routine maintenance and basic mechanical needs.
+        - article [ref=f2e378]:
+          - generic [ref=f2e384]:
+            - heading "Brakes" [level=3] [ref=f2e385]
+            - paragraph [ref=f2e386]: Checks and service related to the braking system.
+        - article [ref=f2e387]:
+          - generic [ref=f2e391]:
+            - heading "Diagnostics" [level=3] [ref=f2e392]
+            - paragraph [ref=f2e393]: Initial assessment of symptoms and warning lights when possible.
+        - article [ref=f2e394]:
+          - generic [ref=f2e399]:
+            - heading "Battery and starting" [level=3] [ref=f2e400]
+            - paragraph [ref=f2e401]: Battery, starting and power-related issues.
+        - article [ref=f2e402]:
+          - generic [ref=f2e406]:
+            - heading "Minor repairs" [level=3] [ref=f2e407]
+            - paragraph [ref=f2e408]: Light mechanical repairs that can be completed on site.
+        - article [ref=f2e409]:
+          - generic [ref=f2e413]:
+            - heading "Seasonal maintenance" [level=3] [ref=f2e414]
+            - paragraph [ref=f2e415]: Preparation and checks based on the season.
+        - article [ref=f2e416]:
+          - generic [ref=f2e419]:
+            - heading "Other mechanical services" [level=3] [ref=f2e420]
+            - paragraph [ref=f2e421]: Request a quote to confirm whether the service can be performed.
+    - generic [ref=f2e106]:
+      - generic [ref=f2e107]:
+        - paragraph [ref=f2e108]: Jobs Done
+        - heading "Real mobile service, on site" [level=2] [ref=f2e422]
+        - generic [ref=f2e110]: Real DAIG AUTO work photos. Descriptions are intentionally generic for now and can be refined with official details later.
+      - generic [ref=f2e111]:
+        - article [ref=f2e112]:
+          - generic [ref=f2e113]:
+            - generic [ref=f2e114]: Brakes
+            - paragraph [ref=f2e115]: Visual before/after comparison from an on-site brake job.
+          - generic [ref=f2e116]:
+            - img "Before" [ref=f2e423]
+            - img "After" [ref=f2e424]
+            - generic [ref=f2e120]: Before
+            - generic [ref=f2e121]: After
+            - slider "Slide to compare" [ref=f2e425]: "70"
+          - generic [ref=f2e123]: Slide to compare
+        - generic [ref=f2e124]:
+          - generic [ref=f2e125]:
+            - img "On-site tools and service setup" [ref=f2e426]
+            - generic [ref=f2e127]:
+              - text: Mobile service
+              - heading "On-site tools and service setup" [level=3] [ref=f2e427]
+            - generic [ref=f2e129]:
+              - button "Previous job photo" [ref=f2e130] [cursor=pointer]
+              - button "Next job photo" [ref=f2e133] [cursor=pointer]
+          - generic [ref=f2e136]:
+            - button "On-site tools and service setup" [ref=f2e428] [cursor=pointer]
+            - button "Driveway vehicle check" [ref=f2e429] [cursor=pointer]
+            - button "At-home service visit" [ref=f2e430] [cursor=pointer]
+            - button "Mobile tools prepared on site" [ref=f2e431] [cursor=pointer]
+    - generic [ref=f2e143]:
+      - generic [ref=f2e144]:
+        - paragraph [ref=f2e145]: Process
+        - heading "Simple from first message to service" [level=2] [ref=f2e432]
+      - generic [ref=f2e147]:
+        - article [ref=f2e433]:
+          - generic [ref=f2e434]: "1"
+          - generic [ref=f2e435]:
+            - heading "Tell us what is happening" [level=3] [ref=f2e436]
+            - paragraph [ref=f2e437]: Send vehicle details and describe what you are noticing.
+        - article [ref=f2e438]:
+          - generic [ref=f2e439]: "2"
+          - generic [ref=f2e440]:
+            - heading "Get your quote" [level=3] [ref=f2e441]
+            - paragraph [ref=f2e442]: DAIG AUTO confirms next steps or appointment details.
+        - article [ref=f2e443]:
+          - generic [ref=f2e444]: "3"
+          - generic [ref=f2e445]:
+            - heading "We come to you" [level=3] [ref=f2e446]
+            - paragraph [ref=f2e447]: Service is completed at the agreed location when the work can be done on site.
+    - generic [ref=f2e163]:
+      - generic [ref=f2e165]:
+        - paragraph [ref=f2e166]: Service area
+        - heading "Brossard and the South Shore" [level=2] [ref=f2e448]
+        - generic [ref=f2e168]: DAIG AUTO is primarily based in Brossard and generally serves the South Shore of Montreal. Exact areas will be confirmed based on availability and service type.
+      - generic [ref=f2e171]:
+        - strong [ref=f2e175]: Brossard
+        - generic [ref=f2e176]: Rive-Sud / South Shore
+    - generic [ref=f2e177]:
+      - generic [ref=f2e178]:
+        - paragraph [ref=f2e179]: Why DAIG AUTO
+        - heading "A more direct mobile experience" [level=2] [ref=f2e449]
+      - generic [ref=f2e181]:
+        - article [ref=f2e450]:
+          - generic [ref=f2e454]: Convenient mobile service
+        - article [ref=f2e455]:
+          - generic [ref=f2e459]: Simple, direct communication
+        - article [ref=f2e460]:
+          - generic [ref=f2e464]: Service where the vehicle is located
+        - article [ref=f2e465]:
+          - generic [ref=f2e469]: Local Brossard / South Shore focus
+        - article [ref=f2e470]:
+          - generic [ref=f2e474]: Experience designed for mobile phones
+    - generic [ref=f2e207]:
+      - generic [ref=f2e208]:
+        - paragraph [ref=f2e209]: Reviews
+        - heading "Ready for future customer reviews" [level=2] [ref=f2e475]
+      - generic [ref=f2e211]:
+        - heading "Customer reviews coming later" [level=3] [ref=f2e476]
+        - paragraph [ref=f2e215]: This section is prepared to display real reviews or a Google reviews integration once the information is available.
+        - generic [ref=f2e216]: Demo content - replace with verified reviews.
+    - generic [ref=f2e217]:
+      - generic [ref=f2e218]:
+        - paragraph [ref=f2e219]: FAQ
+        - heading "Frequently asked questions" [level=2] [ref=f2e477]
+      - generic [ref=f2e221]:
+        - article [ref=f2e478]:
+          - button "Do you come to my home?" [ref=f2e479] [cursor=pointer]
+          - paragraph [ref=f2e483]: Yes, mobile service is designed to come to the vehicle when the work can be performed on site.
+        - article [ref=f2e484]:
+          - button "What areas do you service?" [ref=f2e485] [cursor=pointer]
+          - generic:
+            - paragraph: DAIG AUTO is primarily based in Brossard and generally serves the South Shore. Details will be confirmed based on the request.
+        - article [ref=f2e488]:
+          - button "Can I request a quote before booking?" [ref=f2e489] [cursor=pointer]
+          - generic:
+            - paragraph: Yes. The form lets you describe the need so the next steps can be confirmed.
+        - article [ref=f2e492]:
+          - button "What repairs can be performed on site?" [ref=f2e493] [cursor=pointer]
+          - generic:
+            - paragraph: It depends on the vehicle, the issue and the conditions on site. Exact services will be confirmed before the appointment.
+        - article [ref=f2e496]:
+          - button "Do I need to provide anything?" [ref=f2e497] [cursor=pointer]
+          - generic:
+            - paragraph: Plan for safe access to the vehicle and share relevant information before the appointment.
+    - generic [ref=f2e244]:
+      - generic [ref=f2e245]:
+        - generic [ref=f2e246]:
+          - paragraph [ref=f2e247]: Quote
+          - heading "Request a free quote" [level=2] [ref=f2e500]
+        - generic [ref=f2e249]:
+          - img "DAIG AUTO" [ref=f2e251]
+          - paragraph [ref=f2e252]: Based in Brossard - mobile service across the South Shore
+      - generic [ref=f2e253]:
+        - paragraph [ref=f2e254]: Fill in the key information. Details can be confirmed afterward.
+        - generic [ref=f2e255]:
+          - generic [ref=f2e256]:
+            - text: Name
+            - textbox "Name" [ref=f2e501]
+          - generic [ref=f2e258]:
+            - text: Phone
+            - textbox "Phone" [ref=f2e502]
+          - generic [ref=f2e260]:
+            - text: Email
+            - textbox "Email" [ref=f2e503]
+          - generic [ref=f2e262]:
+            - text: Vehicle year
+            - textbox "Vehicle year" [ref=f2e504]
+          - generic [ref=f2e264]:
+            - text: Make
+            - textbox "Make" [ref=f2e505]
+          - generic [ref=f2e266]:
+            - text: Model
+            - textbox "Model" [ref=f2e506]
+          - generic [ref=f2e268]:
+            - text: Approximate mileage
+            - textbox "Approximate mileage" [ref=f2e507]
+          - generic [ref=f2e270]:
+            - text: Preferred date
+            - textbox "Preferred date" [ref=f2e508]
+        - generic [ref=f2e272]:
+          - text: Service needed or problem description
+          - textbox "Service needed or problem description" [ref=f2e509]
+        - group "Preferred contact method" [ref=f2e510]:
+          - generic [ref=f2e276]:
+            - generic [ref=f2e511]:
+              - radio "Phone" [ref=f2e512]
+              - generic [ref=f2e513]: Phone
+            - generic [ref=f2e514]:
+              - radio "Email" [ref=f2e515]
+              - generic [ref=f2e516]: Email
+            - generic [ref=f2e517]:
+              - radio "Text" [ref=f2e518]
+              - generic [ref=f2e519]: Text
+        - generic [ref=f2e286] [cursor=pointer]:
+          - generic [ref=f2e290]:
+            - strong [ref=f2e291]: Optional photo
+            - text: Add a photo of the issue, dashboard or part if helpful.
+          - button "Optional photo Add a photo of the issue, dashboard or part if helpful." [ref=f2e520]
+        - button "Send request" [ref=f2e521] [cursor=pointer]
+        - generic [ref=f2e297]: Frontend form only for now. Email or backend integration can be added later.
+    - generic [ref=f2e299]:
+      - heading "Need a mechanic?" [level=2] [ref=f2e522]
+      - paragraph [ref=f2e301]: We come to you.
+      - link "Get a free quote" [ref=f2e523] [cursor=pointer]:
+        - /url: "#quote"
+  - contentinfo [ref=f2e305]:
+    - generic [ref=f2e306]:
+      - img "DAIG AUTO" [ref=f2e308]
+      - paragraph [ref=f2e309]: Mobile mechanic
+      - text: Brossard / South Shore of Montreal
+    - navigation "Footer navigation" [ref=f2e310]:
+      - link "Home" [ref=f2e524] [cursor=pointer]:
+        - /url: "#home"
+      - link "Services" [ref=f2e312] [cursor=pointer]:
+        - /url: "#services"
+      - link "Jobs Done" [ref=f2e525] [cursor=pointer]:
+        - /url: "#jobs"
+      - link "Service Area" [ref=f2e526] [cursor=pointer]:
+        - /url: "#area"
+      - link "FAQ" [ref=f2e315] [cursor=pointer]:
+        - /url: "#faq"
+    - generic [ref=f2e316]:
+      - strong [ref=f2e317]: Contact
+      - generic [ref=f2e318]: Contact details to be added
+      - link "Free quote" [ref=f2e527] [cursor=pointer]:
+        - /url: "#quote"
+  - navigation "Mobile quick actions" [ref=f2e320]:
+    - link "Call" [ref=f2e528] [cursor=pointer]:
+      - /url: "#contact"
+    - link "Quote" [ref=f2e529] [cursor=pointer]:
+      - /url: "#quote"
+    - link "Book" [ref=f2e530] [cursor=pointer]:
+      - /url: "#quote"

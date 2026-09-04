@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#0D0D0F"/>
+  <path d="M13 18h38v21c0 8-8 15-19 19-11-4-19-11-19-19V18Z" fill="#151518" stroke="#E33935" stroke-width="3"/>
+  <path d="M18 25h28v14H18z" fill="#050506" stroke="#F2F2F2" stroke-width="2"/>
+  <path d="M18 41h28l-6 7H24l-6-7Z" fill="#E33935"/>
+  <text x="32" y="36" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-size="12" font-weight="900" fill="#F2F2F2">DAIG</text>
+</svg>
